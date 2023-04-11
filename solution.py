@@ -1,8 +1,7 @@
 
 import pandas as pd
 import numpy as np
-from scipy import stats
-from scipy.optimize import minimize_scalar
+from scipy.stats import norm
 
 chat_id = 541133397 # Ваш chat ID, не меняйте название переменной
 
